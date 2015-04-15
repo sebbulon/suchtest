@@ -1,22 +1,30 @@
 /**
  * Created by sebastian.weikart on 14/04/2015.
  */
-var Sequelize = require('sequelize');
+var orm = require("../../common/modelSingleton")
+    , Seq = orm.Seq();
 
-// define product model -
-var Review = Sequelize.define('Reviews', {
-    id: {
-        type: Sequelize.INTEGER,
-        primaryKey: true,
-        autoIncrement: true
+// define review model to be consumed by our modelSingleton initialiser
+module.exports = {
+    model: {
+        id: {
+            type: Seq.INTEGER,
+            primaryKey: true,
+            autoIncrement: true
+        },
+        productId: {
+            type: Seq.INTEGER,
+            field: 'product_id'
+        },
+        description: {
+            type: Seq.TEXT
+        }
     },
-    productId: {
-        type: Sequelize.INTEGER,
-        field: 'product_id'
+    relations: {
+        belongsTo: "products"
     },
-    description: {
-        type: Sequelize.TEXT
+    options: {
+        timestamps: false,
+        tableName: 'reviews'
     }
-}, {
-    tableName: 'reviews'
-});
+}
