@@ -5,6 +5,8 @@
 
 var hippie = require('hippie');
 var server = require('../app');
+var should = require('should');
+var assert = require('chai').assert;
 
 describe('Server', function () {
     describe('/api/products endpoint', function () {
@@ -15,6 +17,7 @@ describe('Server', function () {
                 .expectStatus(200)
                 .end(function(err, res, body) {
                     if (err) throw err;
+                    assert.lengthOf(JSON.parse(res.body), 10, "response body has 10 products");
                     done();
                 });
         });
