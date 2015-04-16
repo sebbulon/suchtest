@@ -38,7 +38,7 @@ module.exports = function (app, config) {
         }
     ));
     app.use(express.static(path.join(config.rootPath, 'public')));
-
-
+    app.use('/api-docs', express.static('./public/api-docs'));
+    app.use('/api.json', express.static('/server/api/swagger/swagger.json'));
 
 }

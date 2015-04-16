@@ -1,0 +1,133 @@
+{
+    "swagger": "2.0",
+    "info": {
+        "version": "0.0.0",
+        "title": "SuchCommerce API Test"
+    },
+    "paths": {
+        "/api/products": {
+            "get": {
+                "description": "Gets `Product` objects.\n",
+                "parameters": [
+                    {
+                        "name": "per_page",
+                        "in": "query",
+                        "description": "page size",
+                        "required": false,
+                        "type": "number",
+                        "format": "double",
+                        "default": 10
+                    },
+                    {
+                        "name": "page",
+                        "in": "query",
+                        "description": "page number",
+                        "required": false,
+                        "type": "number",
+                        "format": "double"
+                    }
+                ],
+                "tags": [
+                    "Products"
+                ],
+                "responses": {
+                    "200": {
+                        "description": "Successful response returning a pageable product array",
+                        "schema": {
+                            "links": {
+                                "$ref": "#/definitions/Links"
+                            },
+                            "title": "ArrayOfProduct",
+                            "type": "array",
+                            "items": {
+                                "$ref": "#/definitions/Product"
+                            }
+                        }
+                    },
+                    "default": {
+                        "description": "Unexpected error",
+                        "schema": {
+                            "$ref": "#/definitions/Error"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "definitions": {
+        "Product": {
+            "properties": {
+                "links": {
+                    "$ref": "#/definitions/Links"
+                },
+                "id": {
+                    "type": "integer",
+                    "format": "int64"
+                },
+                "externalId": {
+                    "type": "string"
+                },
+                "details": {
+                    "type": "object"
+                },
+                "reviews": {
+                    "type": "array",
+                    "items": {
+                        "$ref": "#/definitions/Review"
+                    }
+                }
+            }
+        },
+        "Review": {
+            "properties": {
+                "links": {
+                    "$ref": "#/definitions/Links"
+                },
+                "id": {
+                    "type": "integer",
+                    "format": "int64"
+                },
+                "productId": {
+                    "type": "integer",
+                    "format": "int64"
+                },
+                "description": {
+                    "type": "string"
+                }
+            }
+        },
+        "Links": {
+            "properties": {
+                "self": {
+                    "type": "string"
+                },
+                "first": {
+                    "type": "string"
+                },
+                "last": {
+                    "type": "string"
+                },
+                "prev": {
+                    "type": "string"
+                },
+                "next": {
+                    "type": "string"
+                }
+            }
+        },
+        "Error": {
+            "properties": {
+                "code": {
+                    "type": "integer",
+                    "format": "int32"
+                },
+                "message": {
+                    "type": "string"
+                },
+                "fields": {
+                    "type": "string"
+                }
+            }
+        }
+    }
+}

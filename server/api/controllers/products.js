@@ -9,12 +9,30 @@ exports.getProducts = function (req, res) {
 
     // TODO add pagination and optional loading of reviews
     var getReviews = false;
+    var page = req.query.page;
+    var perPage = req.query.per_page;
     var Product = orm.model("products");
-    Product.findAll().then(function (products) {
-        console.log("finding products...");
-        console.log(JSON.stringify(products));
-        res.send(products);
-    });
+
+    if(page && perPage) {
+        Product.findAll(
+            {
+                offset: page,
+                limit: perPage
+            }
+        ).then(function (products) {
+            console.log("finding products...");
+            console.log(JSON.stringify(products));
+            res.send(products);
+        });
+
+    } else {
+
+        Product.find().then(function (products) {
+            console.log("finding products...");
+            console.log(JSON.stringify(products));
+            res.send(products);
+        });
+    }
 
 
 };
