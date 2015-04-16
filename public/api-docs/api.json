@@ -52,6 +52,40 @@
                     }
                 }
             }
+        },
+        "/api/reviews": {
+            "post": {
+                "tags": [
+                    "Products"
+                ],
+                "summary": "create review for product",
+                "description": "",
+                "consumes": [
+                    "application/json"
+                ],
+                "produces": [
+                    "application/json"
+                ],
+                "parameters": [
+                    {
+                        "in": "body",
+                        "name": "body",
+                        "description": "review object",
+                        "required": false,
+                        "schema": {
+                            "$ref": "#/definitions/Review"
+                        }
+                    }
+                ],
+                "responses": {
+                    "400": {
+                        "description": "Invalid ID supplied"
+                    },
+                    "405": {
+                        "description": "Validation exception"
+                    }
+                }
+            }
         }
     },
     "definitions": {

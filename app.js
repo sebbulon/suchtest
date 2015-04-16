@@ -1,6 +1,4 @@
 var express = require('express');
-var swagger = require('swagger-express');
-
 
 var app = express();
 var env = process.env.NODE_ENV = process.env.NODE_ENV || 'development';

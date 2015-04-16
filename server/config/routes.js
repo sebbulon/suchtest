@@ -10,6 +10,10 @@ module.exports = function (app) {
 
     app.get('/api/products', products.getProducts);
 
+   // app.get('/api/reviews', reviews.getReviews);
+
+    app.post('/api/reviews', reviews.createReviews);
+
     app.get('/partials/*', function (req, res) {
         console.debug('request for partial ' + req.params[0]);  // todo replace all console calls with logger
         res.render('../../public/app/' + req.params[0]);

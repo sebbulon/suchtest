@@ -2,168 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="512ad2d8-a1fb-4102-bca7-13485e7d2d41" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/api-docs/fonts/droid-sans-v6-latin-700.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/api-docs/fonts/droid-sans-v6-latin-700.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/api-docs/fonts/droid-sans-v6-latin-700.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/api-docs/fonts/droid-sans-v6-latin-700.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/api-docs/fonts/droid-sans-v6-latin-regular.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/api-docs/fonts/droid-sans-v6-latin-regular.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/api-docs/fonts/droid-sans-v6-latin-regular.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/api-docs/fonts/droid-sans-v6-latin-regular.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/api-docs/images/explorer_icons.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/api-docs/images/favicon-16x16.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/api-docs/images/favicon-32x32.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/api-docs/images/favicon.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/api-docs/images/logo_small.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/api-docs/images/pet_store_api.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/api-docs/images/throbber.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/api-docs/images/wordnik_api.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/api-docs/api.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/api-docs/lib/backbone-min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/api-docs/fonts/droid-sans-v6-latin-700.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/api-docs/fonts/droid-sans-v6-latin-regular.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/api-docs/lib/handlebars-2.0.0.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/api-docs/lib/highlight.7.3.pack.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/api-docs/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/api-docs/lib/jquery-1.8.0.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/api-docs/lib/jquery.ba-bbq.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/api-docs/lib/jquery.slideto.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/api-docs/lib/jquery.wiggle.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/api-docs/lib/marked.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/api-docs/o2c.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/api-docs/css/print.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/api-docs/css/reset.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/api-docs/css/screen.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/api-docs/lib/swagger-oauth.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/api-docs/swagger-ui.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/api-docs/swagger-ui.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/api/swagger/swagger.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/api-docs/css/typography.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/api-docs/lib/underscore-min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/api-docs/lib/underscore-min.map" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/sqlite3/lib/binding/node-v14-win32-ia32/node_sqlite3.node" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/.bin/node-pre-gyp.cmd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/node-pre-gyp/node_modules/.bin/mkdirp.cmd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/node-pre-gyp/node_modules/.bin/nopt.cmd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/node-pre-gyp/node_modules/.bin/rc.cmd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/node-pre-gyp/node_modules/.bin/rimraf.cmd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/node-pre-gyp/node_modules/.bin/semver.cmd" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/node-pre-gyp/node_modules/request/node_modules/hawk/node_modules/boom/images/boom.png" afterPath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/node-pre-gyp/node_modules/request/node_modules/hawk/node_modules/boom/images/boom.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/node-pre-gyp/node_modules/request/node_modules/hawk/images/hawk.png" afterPath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/node-pre-gyp/node_modules/request/node_modules/hawk/images/hawk.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/node-pre-gyp/node_modules/request/node_modules/hawk/node_modules/hoek/images/hoek.png" afterPath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/node-pre-gyp/node_modules/request/node_modules/hawk/node_modules/hoek/images/hoek.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/node-pre-gyp/node_modules/request/node_modules/hawk/images/logo.png" afterPath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/node-pre-gyp/node_modules/request/node_modules/hawk/images/logo.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/node-pre-gyp/node_modules/request/node_modules/hawk/.npmignore" afterPath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/node-pre-gyp/node_modules/request/node_modules/hawk/.npmignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/node-pre-gyp/node_modules/request/node_modules/hawk/node_modules/cryptiles/.npmignore" afterPath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/node-pre-gyp/node_modules/request/node_modules/hawk/node_modules/cryptiles/.npmignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/node-pre-gyp/node_modules/request/node_modules/hawk/node_modules/hoek/.npmignore" afterPath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/node-pre-gyp/node_modules/request/node_modules/hawk/node_modules/hoek/.npmignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/node-pre-gyp/node_modules/tar-pack/.npmignore" afterPath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/node-pre-gyp/node_modules/tar-pack/.npmignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/node-pre-gyp/node_modules/request/node_modules/hawk/.travis.yml" afterPath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/node-pre-gyp/node_modules/request/node_modules/hawk/.travis.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/node-pre-gyp/node_modules/request/node_modules/hawk/node_modules/boom/.travis.yml" afterPath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/node-pre-gyp/node_modules/request/node_modules/hawk/node_modules/boom/.travis.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/node-pre-gyp/node_modules/request/node_modules/hawk/node_modules/cryptiles/.travis.yml" afterPath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/node-pre-gyp/node_modules/request/node_modules/hawk/node_modules/cryptiles/.travis.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/node-pre-gyp/node_modules/request/node_modules/hawk/node_modules/hoek/.travis.yml" afterPath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/node-pre-gyp/node_modules/request/node_modules/hawk/node_modules/hoek/.travis.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/node-pre-gyp/node_modules/request/node_modules/hawk/node_modules/sntp/.travis.yml" afterPath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/node-pre-gyp/node_modules/request/node_modules/hawk/node_modules/sntp/.travis.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/node-pre-gyp/node_modules/tar-pack/.travis.yml" afterPath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/node-pre-gyp/node_modules/tar-pack/.travis.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/node-pre-gyp/node_modules/request/node_modules/hawk/LICENSE" afterPath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/node-pre-gyp/node_modules/request/node_modules/hawk/LICENSE" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/node-pre-gyp/node_modules/request/node_modules/hawk/node_modules/boom/LICENSE" afterPath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/node-pre-gyp/node_modules/request/node_modules/hawk/node_modules/boom/LICENSE" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/node-pre-gyp/node_modules/request/node_modules/hawk/node_modules/cryptiles/LICENSE" afterPath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/node-pre-gyp/node_modules/request/node_modules/hawk/node_modules/cryptiles/LICENSE" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/node-pre-gyp/node_modules/request/node_modules/hawk/node_modules/hoek/LICENSE" afterPath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/node-pre-gyp/node_modules/request/node_modules/hawk/node_modules/hoek/LICENSE" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/node-pre-gyp/node_modules/request/node_modules/hawk/node_modules/sntp/LICENSE" afterPath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/node-pre-gyp/node_modules/request/node_modules/hawk/node_modules/sntp/LICENSE" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/node-pre-gyp/node_modules/request/node_modules/qs/LICENSE" afterPath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/node-pre-gyp/node_modules/request/node_modules/qs/LICENSE" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/node-pre-gyp/node_modules/request/node_modules/hawk/Makefile" afterPath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/node-pre-gyp/node_modules/request/node_modules/hawk/Makefile" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/node-pre-gyp/node_modules/request/node_modules/hawk/node_modules/boom/Makefile" afterPath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/node-pre-gyp/node_modules/request/node_modules/hawk/node_modules/boom/Makefile" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/node-pre-gyp/node_modules/request/node_modules/hawk/node_modules/cryptiles/Makefile" afterPath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/node-pre-gyp/node_modules/request/node_modules/hawk/node_modules/cryptiles/Makefile" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/node-pre-gyp/node_modules/request/node_modules/hawk/node_modules/hoek/Makefile" afterPath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/node-pre-gyp/node_modules/request/node_modules/hawk/node_modules/hoek/Makefile" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/node-pre-gyp/node_modules/request/node_modules/hawk/node_modules/sntp/Makefile" afterPath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/node-pre-gyp/node_modules/request/node_modules/hawk/node_modules/sntp/Makefile" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/node-pre-gyp/node_modules/rc/node_modules/deep-extend/README.md" afterPath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/node-pre-gyp/node_modules/rc/node_modules/deep-extend/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/node-pre-gyp/node_modules/request/node_modules/hawk/README.md" afterPath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/node-pre-gyp/node_modules/request/node_modules/hawk/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/node-pre-gyp/node_modules/request/node_modules/hawk/node_modules/boom/README.md" afterPath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/node-pre-gyp/node_modules/request/node_modules/hawk/node_modules/boom/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/node-pre-gyp/node_modules/request/node_modules/hawk/node_modules/hoek/README.md" afterPath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/node-pre-gyp/node_modules/request/node_modules/hawk/node_modules/hoek/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/node-pre-gyp/node_modules/request/node_modules/hawk/node_modules/sntp/README.md" afterPath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/node-pre-gyp/node_modules/request/node_modules/hawk/node_modules/sntp/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/node-pre-gyp/node_modules/request/node_modules/qs/README.md" afterPath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/node-pre-gyp/node_modules/request/node_modules/qs/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/node-pre-gyp/node_modules/tar-pack/README.md" afterPath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/node-pre-gyp/node_modules/tar-pack/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/product-integrationtest.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/unit/product-spec.js" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/runConfigurations/bin_www.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/api/swagger/swagger.json" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db/catalogue.sqlite3" afterPath="$PROJECT_DIR$/db/catalogue.sqlite3" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/api-docs/api.json" afterPath="$PROJECT_DIR$/public/api-docs/api.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app.js" afterPath="$PROJECT_DIR$/app.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/node-pre-gyp/node_modules/request/node_modules/form-data/node_modules/async/lib/async.js" afterPath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/node-pre-gyp/node_modules/request/node_modules/form-data/node_modules/async/lib/async.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/node-pre-gyp/node_modules/request/node_modules/node-uuid/benchmark/bench.sh" afterPath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/node-pre-gyp/node_modules/request/node_modules/node-uuid/benchmark/bench.sh" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/node-pre-gyp/node_modules/rimraf/bin.js" afterPath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/node-pre-gyp/node_modules/rimraf/bin.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/node-pre-gyp/node_modules/request/node_modules/hawk/lib/browser.js" afterPath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/node-pre-gyp/node_modules/request/node_modules/hawk/lib/browser.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/node-pre-gyp/node_modules/request/node_modules/hawk/test/browser.js" afterPath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/node-pre-gyp/node_modules/request/node_modules/hawk/test/browser.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/node-pre-gyp/node_modules/rc/node_modules/strip-json-comments/cli.js" afterPath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/node-pre-gyp/node_modules/rc/node_modules/strip-json-comments/cli.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/node-pre-gyp/node_modules/request/node_modules/hawk/lib/client.js" afterPath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/node-pre-gyp/node_modules/request/node_modules/hawk/lib/client.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/node-pre-gyp/node_modules/request/node_modules/hawk/test/client.js" afterPath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/node-pre-gyp/node_modules/request/node_modules/hawk/test/client.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/node-pre-gyp/node_modules/mkdirp/bin/cmd.js" afterPath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/node-pre-gyp/node_modules/mkdirp/bin/cmd.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/node-pre-gyp/node_modules/request/node_modules/hawk/lib/crypto.js" afterPath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/node-pre-gyp/node_modules/request/node_modules/hawk/lib/crypto.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/node-pre-gyp/node_modules/request/node_modules/hawk/test/crypto.js" afterPath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/node-pre-gyp/node_modules/request/node_modules/hawk/test/crypto.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/node-pre-gyp/node_modules/npmlog/node_modules/ansi/examples/cursorPosition.js" afterPath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/node-pre-gyp/node_modules/npmlog/node_modules/ansi/examples/cursorPosition.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/node-pre-gyp/node_modules/request/node_modules/hawk/node_modules/hoek/lib/escape.js" afterPath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/node-pre-gyp/node_modules/request/node_modules/hawk/node_modules/hoek/lib/escape.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/node-pre-gyp/node_modules/request/node_modules/hawk/node_modules/hoek/test/escaper.js" afterPath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/node-pre-gyp/node_modules/request/node_modules/hawk/node_modules/hoek/test/escaper.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/config/express.js" afterPath="$PROJECT_DIR$/server/config/express.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/node-pre-gyp/node_modules/tar-pack/node_modules/uid-number/get-uid-gid.js" afterPath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/node-pre-gyp/node_modules/tar-pack/node_modules/uid-number/get-uid-gid.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/node-pre-gyp/node_modules/npmlog/node_modules/ansi/examples/beep/index.js" afterPath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/node-pre-gyp/node_modules/npmlog/node_modules/ansi/examples/beep/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/node-pre-gyp/node_modules/npmlog/node_modules/ansi/examples/clear/index.js" afterPath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/node-pre-gyp/node_modules/npmlog/node_modules/ansi/examples/clear/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/node-pre-gyp/node_modules/rc/index.js" afterPath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/node-pre-gyp/node_modules/rc/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/node-pre-gyp/node_modules/request/index.js" afterPath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/node-pre-gyp/node_modules/request/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/node-pre-gyp/node_modules/request/node_modules/hawk/index.js" afterPath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/node-pre-gyp/node_modules/request/node_modules/hawk/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/node-pre-gyp/node_modules/request/node_modules/hawk/lib/index.js" afterPath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/node-pre-gyp/node_modules/request/node_modules/hawk/lib/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/node-pre-gyp/node_modules/request/node_modules/hawk/node_modules/boom/index.js" afterPath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/node-pre-gyp/node_modules/request/node_modules/hawk/node_modules/boom/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/node-pre-gyp/node_modules/request/node_modules/hawk/node_modules/boom/lib/index.js" afterPath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/node-pre-gyp/node_modules/request/node_modules/hawk/node_modules/boom/lib/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/node-pre-gyp/node_modules/request/node_modules/hawk/node_modules/boom/test/index.js" afterPath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/node-pre-gyp/node_modules/request/node_modules/hawk/node_modules/boom/test/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/node-pre-gyp/node_modules/request/node_modules/hawk/node_modules/cryptiles/index.js" afterPath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/node-pre-gyp/node_modules/request/node_modules/hawk/node_modules/cryptiles/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/node-pre-gyp/node_modules/request/node_modules/hawk/node_modules/cryptiles/lib/index.js" afterPath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/node-pre-gyp/node_modules/request/node_modules/hawk/node_modules/cryptiles/lib/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/node-pre-gyp/node_modules/request/node_modules/hawk/node_modules/cryptiles/test/index.js" afterPath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/node-pre-gyp/node_modules/request/node_modules/hawk/node_modules/cryptiles/test/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/node-pre-gyp/node_modules/request/node_modules/hawk/node_modules/hoek/index.js" afterPath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/node-pre-gyp/node_modules/request/node_modules/hawk/node_modules/hoek/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/node-pre-gyp/node_modules/request/node_modules/hawk/node_modules/hoek/lib/index.js" afterPath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/node-pre-gyp/node_modules/request/node_modules/hawk/node_modules/hoek/lib/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/node-pre-gyp/node_modules/request/node_modules/hawk/node_modules/hoek/test/index.js" afterPath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/node-pre-gyp/node_modules/request/node_modules/hawk/node_modules/hoek/test/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/node-pre-gyp/node_modules/request/node_modules/hawk/node_modules/sntp/index.js" afterPath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/node-pre-gyp/node_modules/request/node_modules/hawk/node_modules/sntp/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/node-pre-gyp/node_modules/request/node_modules/hawk/node_modules/sntp/lib/index.js" afterPath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/node-pre-gyp/node_modules/request/node_modules/hawk/node_modules/sntp/lib/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/node-pre-gyp/node_modules/request/node_modules/hawk/node_modules/sntp/test/index.js" afterPath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/node-pre-gyp/node_modules/request/node_modules/hawk/node_modules/sntp/test/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/node-pre-gyp/node_modules/request/node_modules/hawk/test/index.js" afterPath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/node-pre-gyp/node_modules/request/node_modules/hawk/test/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/node-pre-gyp/node_modules/request/node_modules/qs/lib/index.js" afterPath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/node-pre-gyp/node_modules/request/node_modules/qs/lib/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/node-pre-gyp/node_modules/tar-pack/index.js" afterPath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/node-pre-gyp/node_modules/tar-pack/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/node-pre-gyp/node_modules/tar-pack/test/index.js" afterPath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/node-pre-gyp/node_modules/tar-pack/test/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/node-pre-gyp/node_modules/request/node_modules/http-signature/node_modules/ctype/tools/jsl.conf" afterPath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/node-pre-gyp/node_modules/request/node_modules/http-signature/node_modules/ctype/tools/jsl.conf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/node-pre-gyp/node_modules/request/node_modules/http-signature/node_modules/ctype/tools/jsstyle" afterPath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/node-pre-gyp/node_modules/request/node_modules/http-signature/node_modules/ctype/tools/jsstyle" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/node-pre-gyp/node_modules/request/node_modules/hawk/test/message.js" afterPath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/node-pre-gyp/node_modules/request/node_modules/hawk/test/message.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/node-pre-gyp/node_modules/.bin/mkdirp" afterPath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/node-pre-gyp/node_modules/.bin/mkdirp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/node-pre-gyp/node_modules/nopt/examples/my-program.js" afterPath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/node-pre-gyp/node_modules/nopt/examples/my-program.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/.bin/node-pre-gyp" afterPath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/.bin/node-pre-gyp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/node-pre-gyp/bin/node-pre-gyp" afterPath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/node-pre-gyp/bin/node-pre-gyp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/node-pre-gyp/node_modules/nopt/bin/nopt.js" afterPath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/node-pre-gyp/node_modules/nopt/bin/nopt.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/node-pre-gyp/node_modules/.bin/nopt" afterPath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/node-pre-gyp/node_modules/.bin/nopt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/node-pre-gyp/node_modules/request/node_modules/hawk/node_modules/sntp/examples/offset.js" afterPath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/node-pre-gyp/node_modules/request/node_modules/hawk/node_modules/sntp/examples/offset.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/api-docs/index.html" afterPath="$PROJECT_DIR$/public/api-docs/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/sqlite3/package.json" afterPath="$PROJECT_DIR$/node_modules/sqlite3/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/nan/package.json" afterPath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/nan/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/node-pre-gyp/node_modules/request/node_modules/hawk/package.json" afterPath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/node-pre-gyp/node_modules/request/node_modules/hawk/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/node-pre-gyp/node_modules/request/node_modules/hawk/node_modules/boom/package.json" afterPath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/node-pre-gyp/node_modules/request/node_modules/hawk/node_modules/boom/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/node-pre-gyp/node_modules/request/node_modules/hawk/node_modules/cryptiles/package.json" afterPath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/node-pre-gyp/node_modules/request/node_modules/hawk/node_modules/cryptiles/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/node-pre-gyp/node_modules/request/node_modules/hawk/node_modules/hoek/package.json" afterPath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/node-pre-gyp/node_modules/request/node_modules/hawk/node_modules/hoek/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/node-pre-gyp/node_modules/request/node_modules/hawk/node_modules/sntp/package.json" afterPath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/node-pre-gyp/node_modules/request/node_modules/hawk/node_modules/sntp/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/node-pre-gyp/node_modules/request/node_modules/qs/lib/parse.js" afterPath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/node-pre-gyp/node_modules/request/node_modules/qs/lib/parse.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/node-pre-gyp/node_modules/request/node_modules/qs/test/parse.js" afterPath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/node-pre-gyp/node_modules/request/node_modules/qs/test/parse.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/api/controllers/products.js" afterPath="$PROJECT_DIR$/server/api/controllers/products.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/node-pre-gyp/node_modules/.bin/rc" afterPath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/node-pre-gyp/node_modules/.bin/rc" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/node-pre-gyp/node_modules/request/node_modules/hawk/test/readme.js" afterPath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/node-pre-gyp/node_modules/request/node_modules/hawk/test/readme.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/node-pre-gyp/node_modules/request/release.sh" afterPath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/node-pre-gyp/node_modules/request/release.sh" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/node-pre-gyp/node_modules/.bin/rimraf" afterPath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/node-pre-gyp/node_modules/.bin/rimraf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/node-pre-gyp/node_modules/request/node_modules/combined-stream/node_modules/delayed-stream/test/run.js" afterPath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/node-pre-gyp/node_modules/request/node_modules/combined-stream/node_modules/delayed-stream/test/run.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/node-pre-gyp/node_modules/.bin/semver" afterPath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/node-pre-gyp/node_modules/.bin/semver" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/node-pre-gyp/node_modules/semver/bin/semver" afterPath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/node-pre-gyp/node_modules/semver/bin/semver" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/node-pre-gyp/node_modules/request/node_modules/hawk/lib/server.js" afterPath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/node-pre-gyp/node_modules/request/node_modules/hawk/lib/server.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/node-pre-gyp/node_modules/request/node_modules/hawk/test/server.js" afterPath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/node-pre-gyp/node_modules/request/node_modules/hawk/test/server.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/sqlite3/deps/sqlite3.gyp" afterPath="$PROJECT_DIR$/node_modules/sqlite3/deps/sqlite3.gyp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/node-pre-gyp/node_modules/request/node_modules/qs/lib/stringify.js" afterPath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/node-pre-gyp/node_modules/request/node_modules/qs/lib/stringify.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/node-pre-gyp/node_modules/request/node_modules/qs/test/stringify.js" afterPath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/node-pre-gyp/node_modules/request/node_modules/qs/test/stringify.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/node-pre-gyp/node_modules/request/node_modules/hawk/node_modules/hoek/test/modules/test1.js" afterPath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/node-pre-gyp/node_modules/request/node_modules/hawk/node_modules/hoek/test/modules/test1.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/node-pre-gyp/node_modules/request/node_modules/hawk/node_modules/hoek/test/modules/test2.js" afterPath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/node-pre-gyp/node_modules/request/node_modules/hawk/node_modules/hoek/test/modules/test2.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/node-pre-gyp/node_modules/request/node_modules/hawk/node_modules/hoek/test/modules/test3.js" afterPath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/node-pre-gyp/node_modules/request/node_modules/hawk/node_modules/hoek/test/modules/test3.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/node-pre-gyp/node_modules/request/node_modules/hawk/node_modules/sntp/examples/time.js" afterPath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/node-pre-gyp/node_modules/request/node_modules/hawk/node_modules/sntp/examples/time.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/node-pre-gyp/node_modules/request/node_modules/hawk/test/uri.js" afterPath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/node-pre-gyp/node_modules/request/node_modules/hawk/test/uri.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/node-pre-gyp/node_modules/request/node_modules/hawk/example/usage.js" afterPath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/node-pre-gyp/node_modules/request/node_modules/hawk/example/usage.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/node-pre-gyp/node_modules/request/node_modules/hawk/lib/utils.js" afterPath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/node-pre-gyp/node_modules/request/node_modules/hawk/lib/utils.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/node-pre-gyp/node_modules/request/node_modules/hawk/test/utils.js" afterPath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/node-pre-gyp/node_modules/request/node_modules/hawk/test/utils.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/node-pre-gyp/node_modules/request/node_modules/qs/lib/utils.js" afterPath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/node-pre-gyp/node_modules/request/node_modules/qs/lib/utils.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/node-pre-gyp/node_modules/request/node_modules/node-uuid/bin/uuid" afterPath="$PROJECT_DIR$/node_modules/sqlite3/node_modules/node-pre-gyp/node_modules/request/node_modules/node-uuid/bin/uuid" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/api/controllers/reviews.js" afterPath="$PROJECT_DIR$/server/api/controllers/reviews.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/api/models/reviews.js" afterPath="$PROJECT_DIR$/server/api/models/reviews.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/config/routes.js" afterPath="$PROJECT_DIR$/server/config/routes.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/www" afterPath="$PROJECT_DIR$/bin/www" />
     </list>
     <ignored path="node_test.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -188,39 +40,7 @@
         <entry file="file://$PROJECT_DIR$/app.js">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="express.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/server/config/express.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="41" column="69" selection-start-line="41" selection-start-column="69" selection-end-line="41" selection-end-column="69" />
-              <folding>
-                <element signature="e#0#54#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="api.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/api-docs/api.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="56.583332">
-              <caret line="12" column="43" selection-start-line="12" selection-start-column="43" selection-end-line="12" selection-end-column="43" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/api-docs/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-15.625">
-              <caret line="28" column="44" selection-start-line="28" selection-start-column="44" selection-end-line="28" selection-end-column="44" />
+              <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -230,7 +50,7 @@
         <entry file="file://$PROJECT_DIR$/server/api/models/products.js">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+              <caret line="23" column="27" selection-start-line="23" selection-start-column="27" selection-end-line="23" selection-end-column="27" />
               <folding>
                 <element signature="e#0#54#0" expanded="false" />
               </folding>
@@ -238,11 +58,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="products.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="products.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/server/api/controllers/products.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.26978418">
-              <caret line="12" column="37" selection-start-line="12" selection-start-column="37" selection-end-line="12" selection-end-column="37" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="20" column="40" selection-start-line="20" selection-start-column="40" selection-end-line="20" selection-end-column="40" />
               <folding>
                 <element signature="e#0#54#0" expanded="false" />
               </folding>
@@ -250,12 +70,14 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="swagger.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/server/api/swagger/swagger.json">
+      <file leaf-file-name="reviews.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/server/api/controllers/reviews.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="46.583332">
-              <caret line="28" column="18" selection-start-line="28" selection-start-column="18" selection-end-line="28" selection-end-column="18" />
-              <folding />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="15" column="20" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
+              <folding>
+                <element signature="e#0#54#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -264,7 +86,7 @@
         <entry file="file://$PROJECT_DIR$/server/config/routes.js">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="28" column="7" selection-start-line="28" selection-start-column="7" selection-end-line="28" selection-end-column="7" />
+              <caret line="68" column="30" selection-start-line="68" selection-start-column="30" selection-end-line="68" selection-end-column="30" />
               <folding>
                 <element signature="e#0#54#0" expanded="false" />
               </folding>
@@ -275,8 +97,40 @@
       <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-12.538462">
-              <caret line="24" column="25" selection-start-line="24" selection-start-column="25" selection-end-line="24" selection-end-column="25" />
+            <state vertical-scroll-proportion="-17.791666">
+              <caret line="32" column="21" selection-start-line="32" selection-start-column="21" selection-end-line="32" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="product-spec.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/unit/product-spec.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="product-integrationtest.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test/product-integrationtest.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.32374102">
+              <caret line="14" column="34" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
+              <folding>
+                <element signature="e#0#51#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="www" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bin/www">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -286,7 +140,7 @@
         <entry file="file://$PROJECT_DIR$/server/api/models/reviews.js">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="22" column="16" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
+              <caret line="17" column="26" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
               <folding>
                 <element signature="e#0#54#0" expanded="false" />
               </folding>
@@ -316,17 +170,21 @@
         <option value="$PROJECT_DIR$/server/common/modelSingleton.ks.js" />
         <option value="$PROJECT_DIR$/server/common/modelSingleton.js" />
         <option value="$PROJECT_DIR$/server/config/sequelize.js" />
-        <option value="$PROJECT_DIR$/server/api/controllers/reviews.js" />
-        <option value="$PROJECT_DIR$/server/config/routes.js" />
         <option value="$PROJECT_DIR$/server/api/models/products.js" />
-        <option value="$PROJECT_DIR$/server/api/models/reviews.js" />
         <option value="$PROJECT_DIR$/bin/www" />
-        <option value="$PROJECT_DIR$/app.js" />
-        <option value="$PROJECT_DIR$/package.json" />
-        <option value="$PROJECT_DIR$/public/api-docs/index.html" />
         <option value="$PROJECT_DIR$/server/config/express.js" />
+        <option value="$PROJECT_DIR$/server/api/swagger/swagger.json" />
         <option value="$PROJECT_DIR$/public/api-docs/api.json" />
+        <option value="$PROJECT_DIR$/public/api-docs/index.html" />
+        <option value="$PROJECT_DIR$/server/config/routes.js" />
+        <option value="$PROJECT_DIR$/server/api/controllers/reviews.js" />
         <option value="$PROJECT_DIR$/server/api/controllers/products.js" />
+        <option value="$PROJECT_DIR$/server/api/models/reviews.js" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/test/product-spec.js" />
+        <option value="$PROJECT_DIR$/test/integration/product-integrationtest.js" />
+        <option value="$PROJECT_DIR$/app.js" />
+        <option value="$PROJECT_DIR$/test/product-integrationtest.js" />
       </list>
     </option>
   </component>
@@ -394,7 +252,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="server" />
+              <option name="myItemId" value="test" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -408,185 +266,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="server" />
+              <option name="myItemId" value="test" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="config" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="node_test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="suchtest" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="server" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="common" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="node_test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="suchtest" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="server" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="api" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="swagger" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="node_test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="suchtest" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="server" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="api" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="models" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="node_test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="suchtest" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="server" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="api" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="controllers" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="node_test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="suchtest" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="public" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="stylesheets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="node_test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="suchtest" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="public" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="api-docs" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="node_test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="suchtest" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="node_modules" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="swagger-ui" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="node_test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="suchtest" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="node_modules" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="swagger-ui" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dist" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="node_test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="suchtest" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="node_modules" />
+              <option name="myItemId" value="unit" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -616,6 +300,7 @@
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="FullScreen" value="true" />
+    <property name="restartRequiresConfirmation" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -625,14 +310,14 @@
       <recent name="C:\dev\node_test\server\config" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/public/api-docs" />
+      <recent name="$PROJECT_DIR$/test" />
+      <recent name="$PROJECT_DIR$/test/unit" />
       <recent name="$PROJECT_DIR$/server/api/swagger" />
+      <recent name="$PROJECT_DIR$/public/api-docs" />
       <recent name="C:\dev\node_test\server" />
-      <recent name="C:\dev\node_test\server\config" />
-      <recent name="C:\dev\node_test\server\routes" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.bin\www">
+  <component name="RunManager">
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
       <method />
     </configuration>
@@ -656,6 +341,10 @@
     <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="">
       <method />
     </configuration>
+    <configuration default="true" type="NodeJSRemoteDebug" factoryName="Node.js Remote Debug">
+      <node-js-remote-debug />
+      <method />
+    </configuration>
     <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
       <option name="cucumberJsArguments" value="" />
       <option name="executablePath" />
@@ -671,9 +360,17 @@
       <envs />
       <method />
     </configuration>
-    <list size="1">
-      <item index="0" class="java.lang.String" itemvalue="Node.js.bin\www" />
-    </list>
+    <configuration default="true" type="meteor-app-runner" factoryName="Meteor">
+      <option name="startBrowserSettings">
+        <browser url="http://localhost:3000" />
+      </option>
+      <meteor-runner-state>
+        <startBrowserSettings>
+          <browser url="http://localhost:3000" />
+        </startBrowserSettings>
+      </meteor-runner-state>
+      <method />
+    </configuration>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
   <component name="SvnConfiguration">
@@ -719,6 +416,14 @@
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -992,48 +697,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/server/api/controllers/reviews.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bin/www">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-12.538462">
-          <caret line="24" column="25" selection-start-line="24" selection-start-column="25" selection-end-line="24" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server/config/routes.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="28" column="7" selection-start-line="28" selection-start-column="7" selection-end-line="28" selection-end-column="7" />
-          <folding>
-            <element signature="e#0#54#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/node_modules/swagger-ui/gulpfile.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-1.2410072">
@@ -1042,36 +705,43 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/server/api/swagger/swagger.json">
+    <entry file="file://$PROJECT_DIR$/public/api-docs/api.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="46.583332">
-          <caret line="28" column="18" selection-start-line="28" selection-start-column="18" selection-end-line="28" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/api-docs/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-15.625">
-          <caret line="28" column="44" selection-start-line="28" selection-start-column="44" selection-end-line="28" selection-end-column="44" />
-          <folding />
+        <state vertical-scroll-proportion="-4.375">
+          <caret line="7" column="14" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
+          <folding>
+            <marker date="1429208029000" expanded="true" signature="-1:-1" placeholder="{&quot;swagger&quot;: &quot;2.0&quot;...}" />
+            <marker date="1429208029000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1429208029000" expanded="true" signature="-1:-1" placeholder="{&quot;summary&quot;: &quot;create review for product&quot;...}" />
+            <marker date="1429208029000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1429208029000" expanded="true" signature="-1:-1" placeholder="{&quot;description&quot;: &quot;Invalid ID supplied&quot;...}" />
+            <marker date="1429208029000" expanded="true" signature="-1:-1" placeholder="{&quot;description&quot;: &quot;Validation exception&quot;...}" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/server/config/express.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="41" column="69" selection-start-line="41" selection-start-column="69" selection-end-line="41" selection-end-column="69" />
+          <caret line="24" column="18" selection-start-line="24" selection-start-column="18" selection-end-line="24" selection-end-column="18" />
           <folding>
             <element signature="e#0#54#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/public/api-docs/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-15.625">
+          <caret line="28" column="54" selection-start-line="28" selection-start-column="54" selection-end-line="28" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/server/api/models/reviews.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="22" column="16" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
+          <caret line="17" column="26" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
           <folding>
             <element signature="e#0#54#0" expanded="false" />
           </folding>
@@ -1081,27 +751,81 @@
     <entry file="file://$PROJECT_DIR$/server/api/models/products.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <caret line="23" column="27" selection-start-line="23" selection-start-column="27" selection-end-line="23" selection-end-column="27" />
           <folding>
             <element signature="e#0#54#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/api-docs/api.json">
+    <entry file="file://$PROJECT_DIR$/bin/www">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="56.583332">
-          <caret line="12" column="43" selection-start-line="12" selection-start-column="43" selection-end-line="12" selection-end-column="43" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/server/api/controllers/products.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.26978418">
-          <caret line="12" column="37" selection-start-line="12" selection-start-column="37" selection-end-line="12" selection-end-column="37" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="20" column="40" selection-start-line="20" selection-start-column="40" selection-end-line="20" selection-end-column="40" />
           <folding>
             <element signature="e#0#54#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-17.791666">
+          <caret line="32" column="21" selection-start-line="32" selection-start-column="21" selection-end-line="32" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/config/routes.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="68" column="30" selection-start-line="68" selection-start-column="30" selection-end-line="68" selection-end-column="30" />
+          <folding>
+            <element signature="e#0#54#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/api/controllers/reviews.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="15" column="20" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#54#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/unit/product-spec.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/product-integrationtest.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.32374102">
+          <caret line="14" column="34" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
+          <folding>
+            <element signature="e#0#51#0" expanded="false" />
           </folding>
         </state>
       </provider>

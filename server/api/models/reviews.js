@@ -14,7 +14,9 @@ module.exports = {
         },
         productId: {
             type: Seq.INTEGER,
-            field: 'product_id'
+            field: 'product_id',
+            references: "products",
+            referencesKey: "id"
         },
         description: {
             type: Seq.TEXT
